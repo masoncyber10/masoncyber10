@@ -1,12 +1,12 @@
-<h1>Hi, I'm Mason!</h1> 
+<h1>Active Directory & SOC Lab</h1> 
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>Screenshots & Walkthrough</h2>
 
 <b>
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
